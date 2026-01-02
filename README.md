@@ -26,5 +26,5 @@ You can use your own model with the corresponding API key and URL in the OpenAI 
 python dg_new.py --model gpt-3.5-turbo --method mcts --subject eedi
 ```
 
-## A Walk Through Illustratino of MCTS
+## A Walk Through Illustration of MCTS
 ![](images/pipeline.png)
