@@ -1,0 +1,948 @@
+[
+    {
+        "user_id": "5040",
+        "train_records": [
+            {
+                "problem_id": "174",
+                "answer": 2,
+                "status": 1
+            },
+            {
+                "problem_id": "158",
+                "answer": 2,
+                "status": 1
+            },
+            {
+                "problem_id": "250",
+                "answer": 2,
+                "status": 1
+            },
+            {
+                "problem_id": "178",
+                "answer": 3,
+                "status": 1
+            },
+            {
+                "problem_id": "472",
+                "answer": 3,
+                "status": 1
+            },
+            {
+                "problem_id": "436",
+                "answer": 1,
+                "status": 1
+            },
+            {
+                "problem_id": "539",
+                "answer": 1,
+                "status": 1
+            },
+            {
+                "problem_id": "403",
+                "answer": 1,
+                "status": 0
+            },
+            {
+                "problem_id": "182",
+                "answer": 0,
+                "status": 0
+            },
+            {
+                "problem_id": "31",
+                "answer": 3,
+                "status": 0
+            },
+            {
+                "problem_id": "599",
+                "answer": 1,
+                "status": 0
+            },
+            {
+                "problem_id": "828",
+                "answer": 2,
+                "status": 1
+            },
+            {
+                "problem_id": "185",
+                "answer": 3,
+                "status": 1
+            },
+            {
+                "problem_id": "678",
+                "answer": 2,
+                "status": 0
+            },
+            {
+                "problem_id": "421",
+                "answer": 0,
+                "status": 0
+            },
+            {
+                "problem_id": "803",
+                "answer": 2,
+                "status": 1
+            },
+            {
+                "problem_id": "904",
+                "answer": 1,
+                "status": 0
+            },
+            {
+                "problem_id": "439",
+                "answer": 0,
+                "status": 0
+            },
+            {
+                "problem_id": "582",
+                "answer": 2,
+                "status": 0
+            },
+            {
+                "problem_id": "195",
+                "answer": 0,
+                "status": 0
+            },
+            {
+                "problem_id": "69",
+                "answer": 3,
+                "status": 0
+            },
+            {
+                "problem_id": "161",
+                "answer": 2,
+                "status": 0
+            },
+            {
+                "problem_id": "825",
+                "answer": 3,
+                "status": 1
+            },
+            {
+                "problem_id": "234",
+                "answer": 2,
+                "status": 0
+            },
+            {
+                "problem_id": "29",
+                "answer": 0,
+                "status": 0
+            },
+            {
+                "problem_id": "71",
+                "answer": 2,
+                "status": 1
+            },
+            {
+                "problem_id": "409",
+                "answer": 1,
+                "status": 0
+            },
+            {
+                "problem_id": "505",
+                "answer": 2,
+                "status": 1
+            },
+            {
+                "problem_id": "924",
+                "answer": 1,
+                "status": 1
+            },
+            {
+                "problem_id": "566",
+                "answer": 2,
+                "status": 0
+            },
+            {
+                "problem_id": "525",
+                "answer": 1,
+                "status": 0
+            },
+            {
+                "problem_id": "27",
+                "answer": 2,
+                "status": 0
+            },
+            {
+                "problem_id": "312",
+                "answer": 0,
+                "status": 1
+            },
+            {
+                "problem_id": "79",
+                "answer": 0,
+                "status": 1
+            },
+            {
+                "problem_id": "554",
+                "answer": 0,
+                "status": 0
+            },
+            {
+                "problem_id": "463",
+                "answer": 2,
+                "status": 0
+            },
+            {
+                "problem_id": "867",
+                "answer": 0,
+                "status": 1
+            },
+            {
+                "problem_id": "241",
+                "answer": 2,
+                "status": 0
+            },
+            {
+                "problem_id": "3",
+                "answer": 1,
+                "status": 1
+            },
+            {
+                "problem_id": "260",
+                "answer": 2,
+                "status": 1
+            },
+            {
+                "problem_id": "639",
+                "answer": 0,
+                "status": 1
+            },
+            {
+                "problem_id": "445",
+                "answer": 2,
+                "status": 1
+            },
+            {
+                "problem_id": "862",
+                "answer": 1,
+                "status": 1
+            },
+            {
+                "problem_id": "45",
+                "answer": 0,
+                "status": 0
+            },
+            {
+                "problem_id": "263",
+                "answer": 3,
+                "status": 0
+            },
+            {
+                "problem_id": "529",
+                "answer": 0,
+                "status": 1
+            },
+            {
+                "problem_id": "800",
+                "answer": 3,
+                "status": 0
+            },
+            {
+                "problem_id": "383",
+                "answer": 1,
+                "status": 0
+            },
+            {
+                "problem_id": "293",
+                "answer": 2,
+                "status": 0
+            },
+            {
+                "problem_id": "943",
+                "answer": 2,
+                "status": 0
+            },
+            {
+                "problem_id": "457",
+                "answer": 0,
+                "status": 1
+            },
+            {
+                "problem_id": "938",
+                "answer": 1,
+                "status": 0
+            },
+            {
+                "problem_id": "656",
+                "answer": 0,
+                "status": 1
+            },
+            {
+                "problem_id": "616",
+                "answer": 2,
+                "status": 1
+            },
+            {
+                "problem_id": "405",
+                "answer": 1,
+                "status": 1
+            },
+            {
+                "problem_id": "474",
+                "answer": 1,
+                "status": 0
+            },
+            {
+                "problem_id": "325",
+                "answer": 1,
+                "status": 0
+            },
+            {
+                "problem_id": "650",
+                "answer": 0,
+                "status": 0
+            },
+            {
+                "problem_id": "732",
+                "answer": 1,
+                "status": 0
+            },
+            {
+                "problem_id": "489",
+                "answer": 3,
+                "status": 0
+            },
+            {
+                "problem_id": "604",
+                "answer": 1,
+                "status": 0
+            },
+            {
+                "problem_id": "605",
+                "answer": 1,
+                "status": 1
+            },
+            {
+                "problem_id": "103",
+                "answer": 1,
+                "status": 0
+            },
+            {
+                "problem_id": "811",
+                "answer": 2,
+                "status": 0
+            },
+            {
+                "problem_id": "576",
+                "answer": 1,
+                "status": 0
+            },
+            {
+                "problem_id": "791",
+                "answer": 1,
+                "status": 1
+            }
+        ],
+        "test_records": [
+            {
+                "problem_id": "921",
+                "answer": 2,
+                "status": 0
+            },
+            {
+                "problem_id": "311",
+                "answer": 2,
+                "status": 0
+            },
+            {
+                "problem_id": "284",
+                "answer": 2,
+                "status": 0
+            },
+            {
+                "problem_id": "500",
+                "answer": 2,
+                "status": 0
+            },
+            {
+                "problem_id": "249",
+                "answer": 3,
+                "status": 0
+            },
+            {
+                "problem_id": "186",
+                "answer": 0,
+                "status": 0
+            },
+            {
+                "problem_id": "527",
+                "answer": 0,
+                "status": 0
+            },
+            {
+                "problem_id": "34",
+                "answer": 2,
+                "status": 0
+            },
+            {
+                "problem_id": "485",
+                "answer": 2,
+                "status": 0
+            },
+            {
+                "problem_id": "738",
+                "answer": 3,
+                "status": 0
+            }
+        ]
+    },
+    {
+        "user_id": "3854",
+        "train_records": [
+            {
+                "problem_id": "791",
+                "answer": 1,
+                "status": 1
+            },
+            {
+                "problem_id": "500",
+                "answer": 3,
+                "status": 1
+            },
+            {
+                "problem_id": "103",
+                "answer": 3,
+                "status": 1
+            },
+            {
+                "problem_id": "867",
+                "answer": 0,
+                "status": 1
+            },
+            {
+                "problem_id": "616",
+                "answer": 2,
+                "status": 1
+            },
+            {
+                "problem_id": "938",
+                "answer": 3,
+                "status": 1
+            },
+            {
+                "problem_id": "921",
+                "answer": 1,
+                "status": 1
+            },
+            {
+                "problem_id": "436",
+                "answer": 1,
+                "status": 1
+            },
+            {
+                "problem_id": "263",
+                "answer": 2,
+                "status": 0
+            },
+            {
+                "problem_id": "27",
+                "answer": 1,
+                "status": 0
+            },
+            {
+                "problem_id": "862",
+                "answer": 3,
+                "status": 0
+            },
+            {
+                "problem_id": "566",
+                "answer": 1,
+                "status": 1
+            },
+            {
+                "problem_id": "403",
+                "answer": 2,
+                "status": 1
+            },
+            {
+                "problem_id": "732",
+                "answer": 3,
+                "status": 0
+            },
+            {
+                "problem_id": "904",
+                "answer": 1,
+                "status": 0
+            },
+            {
+                "problem_id": "599",
+                "answer": 0,
+                "status": 0
+            },
+            {
+                "problem_id": "457",
+                "answer": 3,
+                "status": 0
+            },
+            {
+                "problem_id": "182",
+                "answer": 2,
+                "status": 1
+            },
+            {
+                "problem_id": "554",
+                "answer": 2,
+                "status": 0
+            },
+            {
+                "problem_id": "195",
+                "answer": 0,
+                "status": 0
+            },
+            {
+                "problem_id": "828",
+                "answer": 1,
+                "status": 0
+            },
+            {
+                "problem_id": "529",
+                "answer": 0,
+                "status": 1
+            },
+            {
+                "problem_id": "250",
+                "answer": 2,
+                "status": 1
+            },
+            {
+                "problem_id": "234",
+                "answer": 0,
+                "status": 0
+            },
+            {
+                "problem_id": "421",
+                "answer": 3,
+                "status": 1
+            },
+            {
+                "problem_id": "505",
+                "answer": 0,
+                "status": 0
+            },
+            {
+                "problem_id": "678",
+                "answer": 0,
+                "status": 0
+            },
+            {
+                "problem_id": "293",
+                "answer": 1,
+                "status": 1
+            },
+            {
+                "problem_id": "34",
+                "answer": 0,
+                "status": 1
+            },
+            {
+                "problem_id": "811",
+                "answer": 1,
+                "status": 1
+            },
+            {
+                "problem_id": "605",
+                "answer": 3,
+                "status": 0
+            },
+            {
+                "problem_id": "284",
+                "answer": 2,
+                "status": 0
+            },
+            {
+                "problem_id": "539",
+                "answer": 1,
+                "status": 1
+            },
+            {
+                "problem_id": "485",
+                "answer": 3,
+                "status": 1
+            },
+            {
+                "problem_id": "463",
+                "answer": 3,
+                "status": 0
+            },
+            {
+                "problem_id": "167",
+                "answer": 0,
+                "status": 0
+            },
+            {
+                "problem_id": "69",
+                "answer": 2,
+                "status": 0
+            },
+            {
+                "problem_id": "31",
+                "answer": 3,
+                "status": 0
+            },
+            {
+                "problem_id": "405",
+                "answer": 1,
+                "status": 1
+            },
+            {
+                "problem_id": "738",
+                "answer": 2,
+                "status": 1
+            },
+            {
+                "problem_id": "409",
+                "answer": 3,
+                "status": 1
+            },
+            {
+                "problem_id": "260",
+                "answer": 2,
+                "status": 1
+            },
+            {
+                "problem_id": "79",
+                "answer": 0,
+                "status": 1
+            },
+            {
+                "problem_id": "383",
+                "answer": 1,
+                "status": 0
+            },
+            {
+                "problem_id": "656",
+                "answer": 1,
+                "status": 0
+            },
+            {
+                "problem_id": "924",
+                "answer": 3,
+                "status": 0
+            },
+            {
+                "problem_id": "863",
+                "answer": 0,
+                "status": 1
+            },
+            {
+                "problem_id": "45",
+                "answer": 1,
+                "status": 0
+            },
+            {
+                "problem_id": "445",
+                "answer": 1,
+                "status": 0
+            },
+            {
+                "problem_id": "825",
+                "answer": 3,
+                "status": 1
+            },
+            {
+                "problem_id": "472",
+                "answer": 3,
+                "status": 1
+            },
+            {
+                "problem_id": "312",
+                "answer": 1,
+                "status": 0
+            },
+            {
+                "problem_id": "186",
+                "answer": 2,
+                "status": 0
+            },
+            {
+                "problem_id": "71",
+                "answer": 1,
+                "status": 0
+            },
+            {
+                "problem_id": "525",
+                "answer": 0,
+                "status": 0
+            },
+            {
+                "problem_id": "178",
+                "answer": 3,
+                "status": 1
+            },
+            {
+                "problem_id": "161",
+                "answer": 3,
+                "status": 0
+            },
+            {
+                "problem_id": "650",
+                "answer": 3,
+                "status": 1
+            },
+            {
+                "problem_id": "89",
+                "answer": 1,
+                "status": 0
+            },
+            {
+                "problem_id": "29",
+                "answer": 3,
+                "status": 1
+            },
+            {
+                "problem_id": "3",
+                "answer": 1,
+                "status": 1
+            },
+            {
+                "problem_id": "241",
+                "answer": 2,
+                "status": 0
+            },
+            {
+                "problem_id": "800",
+                "answer": 2,
+                "status": 0
+            },
+            {
+                "problem_id": "803",
+                "answer": 2,
+                "status": 1
+            }
+        ],
+        "test_records": [
+            {
+                "problem_id": "439",
+                "answer": 0,
+                "status": 0
+            },
+            {
+                "problem_id": "943",
+                "answer": 2,
+                "status": 0
+            },
+            {
+                "problem_id": "474",
+                "answer": 2,
+                "status": 0
+            },
+            {
+                "problem_id": "311",
+                "answer": 2,
+                "status": 0
+            },
+            {
+                "problem_id": "185",
+                "answer": 0,
+                "status": 0
+            },
+            {
+                "problem_id": "249",
+                "answer": 1,
+                "status": 0
+            },
+            {
+                "problem_id": "158",
+                "answer": 0,
+                "status": 0
+            },
+            {
+                "problem_id": "527",
+                "answer": 2,
+                "status": 0
+            },
+            {
+                "problem_id": "325",
+                "answer": 0,
+                "status": 0
+            },
+            {
+                "problem_id": "639",
+                "answer": 3,
+                "status": 0
+            }
+        ]
+    },
+    {
+        "user_id": "3896",
+        "train_records": [
+            {
+                "problem_id": "405",
+                "answer": 1,
+                "status": 1
+            },
+            {
+                "problem_id": "485",
+                "answer": 1,
+                "status": 0
+            },
+            {
+                "problem_id": "938",
+                "answer": 3,
+                "status": 1
+            },
+            {
+                "problem_id": "45",
+                "answer": 1,
+                "status": 0
+            },
+            {
+                "problem_id": "383",
+                "answer": 3,
+                "status": 0
+            },
+            {
+                "problem_id": "3",
+                "answer": 2,
+                "status": 0
+            },
+            {
+                "problem_id": "639",
+                "answer": 0,
+                "status": 1
+            },
+            {
+                "problem_id": "599",
+                "answer": 0,
+                "status": 0
+            },
+            {
+                "problem_id": "178",
+                "answer": 3,
+                "status": 1
+            },
+            {
+                "problem_id": "463",
+                "answer": 0,
+                "status": 1
+            },
+            {
+                "problem_id": "29",
+                "answer": 1,
+                "status": 0
+            },
+            {
+                "problem_id": "539",
+                "answer": 1,
+                "status": 1
+            },
+            {
+                "problem_id": "195",
+                "answer": 2,
+                "status": 0
+            },
+            {
+                "problem_id": "863",
+                "answer": 0,
+                "status": 1
+            },
+            {
+                "problem_id": "311",
+                "answer": 0,
+                "status": 0
+            },
+            {
+                "problem_id": "527",
+                "answer": 3,
+                "status": 0
+            },
+            {
+                "problem_id": "79",
+                "answer": 1,
+                "status": 0
+            },
+            {
+                "problem_id": "791",
+                "answer": 1,
+                "status": 1
+            },
+            {
+                "problem_id": "867",
+                "answer": 0,
+                "status": 1
+            },
+            {
+                "problem_id": "605",
+                "answer": 2,
+                "status": 0
+            },
+            {
+                "problem_id": "529",
+                "answer": 1,
+                "status": 0
+            },
+            {
+                "problem_id": "439",
+                "answer": 0,
+                "status": 0
+            },
+            {
+                "problem_id": "811",
+                "answer": 0,
+                "status": 0
+            },
+            {
+                "problem_id": "263",
+                "answer": 3,
+                "status": 0
+            },
+            {
+                "problem_id": "325",
+                "answer": 0,
+                "status": 0
+            }
+        ],
+        "test_records": [
+            {
+                "problem_id": "656",
+                "answer": 1,
+                "status": 0
+            },
+            {
+                "problem_id": "260",
+                "answer": 3,
+                "status": 0
+            },
+            {
+                "problem_id": "738",
+                "answer": 0,
+                "status": 0
+            },
+            {
+                "problem_id": "474",
+                "answer": 1,
+                "status": 0
+            },
+            {
+                "problem_id": "249",
+                "answer": 1,
+                "status": 0
+            },
+            {
+                "problem_id": "234",
+                "answer": 2,
+                "status": 0
+            },
+            {
+                "problem_id": "27",
+                "answer": 3,
+                "status": 0
+            },
+            {
+                "problem_id": "445",
+                "answer": 3,
+                "status": 0
+            },
+            {
+                "problem_id": "185",
+                "answer": 0,
+                "status": 0
+            },
+            {
+                "problem_id": "89",
+                "answer": 0,
+                "status": 0
+            }
+        ]
+    }
+]
