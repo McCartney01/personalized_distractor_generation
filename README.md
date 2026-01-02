@@ -2,7 +2,7 @@
 Tailoring Distractors to Individual Minds: Personalized Distractor Generation via MCTS-Guided Reasoning Reconstruction
 </h1>
 
-![](images/method.pdf)
+![](images/method.png)
 
 ## Getting Started
 
@@ -27,4 +27,4 @@ python dg_new.py --model gpt-3.5-turbo --method mcts --subject eedi
 ```
 
 ## A Walk Through Illustratino of MCTS
-![](images/pipeline.pdf)
+![](images/pipeline.png)
