@@ -1,6 +1,7 @@
 <h1 align = "center">
-Tailoring Distractors to Individual Minds: Personalized Distractor Generation via MCTS-Guided Reasoning Reconstruction
+Tailoring Diagnostic Modeling to Individual Learners: Personalized Distractor Generation via MCTS-Guided Reasoning Reconstruction
 </h1>
+
 
 ![](images/method.png)
 
